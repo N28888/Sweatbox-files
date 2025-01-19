@@ -7,4 +7,4 @@ Made by Yifan Jin/1687356
 
 ---
 
-Let me know if you have your prefered position!
+Report an issue to let me know if you have your prefered position to let me create or any problems with files!
