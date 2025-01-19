@@ -6,7 +6,7 @@ This project have serveral sweatbox files for training new controller or just ha
 
 ## **Two different kind of files**
 
-There are two kinds of files provided 
+There are two kinds of files provide
 
 ### Normal
 
