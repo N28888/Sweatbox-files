@@ -36,7 +36,7 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 ---
 
 ## **Improvement**
-Report an issue or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me create or any problems with files!
+Report an "issue" or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me create or any problems with files!
 
 ---
 
