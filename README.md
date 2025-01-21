@@ -23,4 +23,4 @@ Made by Yifan Jin/1687356
 
 ---
 
-## **Report an issue to let me know if you have your prefered position to let me create or any problems with files!**
+## **Report an issue or send email to sweatbox@yfanj.ca for let me know if you have your prefered position to let me create or any problems with files!**
