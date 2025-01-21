@@ -26,12 +26,12 @@ Made by Yifan Jin/1687356
 ## **Develop Progress**
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
-- Already done
-1. ZYTX_GND
-2. ZYTX_TWR
-3. ZYTX_APP
-4. CYHZ_GND
-5. CYHZ_TWR
+- Already done:
+    1. ZYTX_GND
+    2. ZYTX_TWR
+    3. ZYTX_APP
+    4. CYHZ_GND
+    5. CYHZ_TWR
 
 ---
 
