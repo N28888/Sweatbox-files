@@ -23,7 +23,7 @@ Made by Yifan Jin/1687356
 
 ---
 
-## **Develop Progress**
+## **Developing Progress**
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
 - Already done:
