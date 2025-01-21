@@ -18,6 +18,9 @@ Training edition files contain some problems in the flightplan, student need to 
 
 ---
 
+### Note:
+Approach files will only have normal edition!
+
 ## **Credits**
 Made by Yifan Jin/1687356
 
@@ -26,12 +29,12 @@ Made by Yifan Jin/1687356
 ## **Developing Progress**
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
-### already done:
-    - ZYTX_GND
-    - ZYTX_TWR
+### Already done: N=Normal T=Training
+    - ZYTX_GND (N&T)
+    - ZYTX_TWR (N Only)
     - ZYTX_APP
-    - CYHZ_GND
-    - CYHZ_TWR
+    - CYHZ_GND (N Only)
+    - CYHZ_TWR (N Only)
 
 ---
 
