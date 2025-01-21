@@ -36,6 +36,8 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 - CYHZ_GND (N Only)
 - CYHZ_TWR (N Only)
 
+#### N=Normal T=Training
+
 ---
 
 ## **Help us improve**
