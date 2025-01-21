@@ -26,16 +26,16 @@ Made by Yifan Jin/1687356
 ## **Developing Progress**
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
-### lready done:
-    - [ZYTX_GND](https://github.com/N28888/Sweatbox-files/blob/main/China/Normal/ZYSH/ZYTX/ZYTX_GND.txt)
-    - [ZYTX_TWR](https://github.com/N28888/Sweatbox-files/blob/main/China/Normal/ZYSH/ZYTX/ZYTX_TWR.txt)
-    - [ZYTX_APP](https://github.com/N28888/Sweatbox-files/blob/main/China/Normal/ZYSH/ZYTX/ZYTX_APP.txt)
-    - [CYHZ_GND](https://github.com/N28888/Sweatbox-files/blob/main/Canada/CYHZ/Normal/CYHZ_GND.txt)
-    - [CYHZ_TWR](https://github.com/N28888/Sweatbox-files/blob/main/Canada/CYHZ/Normal/CYHZ_TWR.txt)
+### already done:
+    - ZYTX_GND
+    - ZYTX_TWR
+    - ZYTX_APP
+    - CYHZ_GND
+    - CYHZ_TWR
 
 ---
 
-## **Improvement**
+## **Help us improve**
 Report an ``Issues`` or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me create or any problems with files!
 
 ---
