@@ -26,7 +26,7 @@ Made by Yifan Jin/1687356
 ## **Developing Progress**
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
-- Already done:
+### lready done:
     - [ZYTX_GND](https://github.com/N28888/Sweatbox-files/blob/main/China/Normal/ZYSH/ZYTX/ZYTX_GND.txt)
     - [ZYTX_TWR](https://github.com/N28888/Sweatbox-files/blob/main/China/Normal/ZYSH/ZYTX/ZYTX_TWR.txt)
     - [ZYTX_APP](https://github.com/N28888/Sweatbox-files/blob/main/China/Normal/ZYSH/ZYTX/ZYTX_APP.txt)
