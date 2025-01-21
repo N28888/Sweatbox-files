@@ -21,11 +21,6 @@ Approach files will only have normal edition!
 
 ---
 
-## **Credits**
-Made by Yifan Jin/1687356
-
----
-
 ## **Developing Progress**
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
@@ -42,6 +37,11 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 
 ## **Help us improve**
 Report an ``Issues`` or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me create or any problems with files!
+
+---
+
+## **Credits**
+Made by Yifan Jin/1687356
 
 ---
 
