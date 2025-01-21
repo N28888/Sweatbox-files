@@ -30,11 +30,11 @@ Made by Yifan Jin/1687356
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
 ## Already done: N=Normal T=Training
-    - ZYTX_GND (N&T)
-    - ZYTX_TWR (N Only)
-    - ZYTX_APP
-    - CYHZ_GND (N Only)
-    - CYHZ_TWR (N Only)
+ZYTX_GND (N&T)
+ZYTX_TWR (N Only)
+ZYTX_APP
+CYHZ_GND (N Only)
+CYHZ_TWR (N Only)
 
 ---
 
