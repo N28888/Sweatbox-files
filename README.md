@@ -25,7 +25,9 @@ Approach files will only have normal edition!
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
 - [x] CYHZ_GND (N Only)
+    - [x] Normal [ ] Training
 - [x] CYHZ_TWR (N Only)
+    - [x] Normal [ ] Training
 - [ ] VHHH_TWR
 - [x] ZYTX_GND (N&T)
 - [x] ZYTX_TWR (N&T)
