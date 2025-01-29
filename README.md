@@ -45,4 +45,10 @@ Made by Yifan Jin/1687356
 
 ---
 
+## **License**
+
+This project based on MIT license
+
+---
+
 # **HAVE FUN!**
