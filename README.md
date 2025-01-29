@@ -50,7 +50,7 @@ Made by Yifan Jin/1687356
 
 ## **License**
 
-This project based on MIT license
+This project based on [MIT license](https://github.com/N28888/Sweatbox-files/blob/main/LICENSE)
 
 ---
 
