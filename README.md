@@ -31,7 +31,7 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 - [x] ZYTX_TWR (N Only)
 - [x] ZYTX_APP
 
-#### <spam style="color-red"> N=Normal T=Training </spam>
+#### <spam style="color:red;"> N=Normal T=Training </spam>
 
 ---
 
