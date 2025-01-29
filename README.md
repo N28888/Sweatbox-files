@@ -28,7 +28,7 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 - [x] CYHZ_TWR (N Only)
 - [ ] VHHH_TWR
 - [x] ZYTX_GND (N&T)
-- [x] ZYTX_TWR (N Only)
+- [x] ZYTX_TWR (N&T)
 - [x] ZYTX_APP
 
 #### <spam style="color:red;"> N=Normal T=Training </spam>
