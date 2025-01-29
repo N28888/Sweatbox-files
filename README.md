@@ -41,7 +41,7 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 ---
 
 ## **Help us improve**
-Report an ``Issues`` or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me create or any problems with files!
+Report an [``Issues``](https://github.com/N28888/Sweatbox-files/issues) or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me create or any problems with files!
 
 ---
 
