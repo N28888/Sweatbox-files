@@ -34,7 +34,8 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 ### Creating Right Now:
 - CYHZ_GND(T)
 - CYHZ_TWR(T)
-- VHHH_TWR
+- VHHH_GND(N&T)
+- VHHH_TWR(N&T)
 
 #### <spam style="color:red;"> N=Normal T=Training </spam>
 
