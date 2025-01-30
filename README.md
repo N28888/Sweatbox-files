@@ -25,16 +25,17 @@ Approach files will only have normal edition!
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
 ### Already Done:
+- CYHZ_GND (N Only)
+- CYHZ_TWR (N Only)
+- VHHH_GND (N Only)
 - ZYTX_GND (N&T)
 - ZYTX_TWR (N&T)
 - ZYTX_APP
-- CYHZ_GND (N Only)
-- CYHZ_TWR (N Only)
 
 ### Creating Right Now:
 - CYHZ_GND(T)
 - CYHZ_TWR(T)
-- VHHH_GND(N&T)
+- VHHH_GND(T)
 - VHHH_TWR(N&T)
 
 #### <spam style="color:red;"> N=Normal T=Training </spam>
