@@ -27,8 +27,8 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 ### Already Done:
 - CYHZ_GND (N Only)
 - CYHZ_TWR (N Only)
-- VHHH_GND (N Only)
-- VHHH_TWR (N Only)
+- VHHH_GND (N&T)
+- VHHH_TWR (N&T)
 - ZYTX_GND (N&T)
 - ZYTX_TWR (N&T)
 - ZYTX_APP
@@ -38,8 +38,6 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 - CYHZ_TWR(T)
 - ZUCK_GND(N&T)
 - ZUCK_TWR(N&T)
-- VHHH_GND(T)
-- VHHH_TWR(T)
 
 #### <spam style="color:red;"> N=Normal T=Training </spam>
 
