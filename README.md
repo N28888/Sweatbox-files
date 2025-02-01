@@ -36,6 +36,8 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 ### Creating Right Now:
 - CYHZ_GND(T)
 - CYHZ_TWR(T)
+- ZUCK_GND(N&T)
+- ZUCK_TWR(N&T)
 - VHHH_GND(T)
 - VHHH_TWR(T)
 
