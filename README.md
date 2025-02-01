@@ -17,7 +17,7 @@ Normal files without any problems for flightplan.
 Training edition files contain some problems in the flightplan, student need to find it out, also there is a files contains where is the wrong infomation in sweatbox.
 
 #### Note:
-#### Approach files will only have normal edition!
+#### Approach files will ONLY have Normal Edition!
 
 ---
 
