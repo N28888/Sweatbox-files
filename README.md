@@ -59,6 +59,9 @@ This project based on [MIT license](https://github.com/N28888/Sweatbox-files/blo
 
 ---
 
-## If You Like My Project Click The Star Above!!! It Increase My Motivation to Create & Update!
+## If You Like My Project Click The Star Above!!! 
+## It Will Increase My Motivation to Create & Update!
+
+---
 
 # **HAVE FUN!**
