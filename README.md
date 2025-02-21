@@ -22,7 +22,6 @@ Training edition files contain some problems in the flightplan, student need to 
 ---
 
 ## **Developing Progress**
-If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
 ### Already Done:
 - CYHZ_GND (N&T)
