@@ -25,7 +25,7 @@ Training edition files contain some problems in the flightplan, student need to 
 If you see a (NO) at the end of files name, it means that file is not done yet, sorry for the inconvenience.
 
 ### Already Done:
-- CYHZ_GND (N Only)
+- CYHZ_GND (N&T)
 - CYHZ_TWR (N Only)
 - VHHH_GND (N&T)
 - VHHH_TWR (N&T)
@@ -34,7 +34,6 @@ If you see a (NO) at the end of files name, it means that file is not done yet, 
 - ZYTX_APP
 
 ### Creating Right Now:
-- CYHZ_GND(T)
 - CYHZ_TWR(T)
 - CYYZ_GND(N&T)
 - CYYZ_TWR(N&T)
