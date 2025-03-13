@@ -44,7 +44,7 @@ Training edition files contain some problems in the flightplan, student need to 
 ---
 
 ## **Help us improve**
-Report [``Issues``](https://github.com/N28888/Sweatbox-files/issues) or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me create or any problems with files!
+Report [``Issues``](https://github.com/N28888/Sweatbox-files/issues) or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me to create or found any problems with files!
 
 ---
 
