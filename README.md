@@ -28,6 +28,7 @@ Training edition files contain some problems in the flightplan, student need to 
 - CYHZ_TWR (N Only)
 - VHHH_GND (N&T)
 - VHHH_TWR (N&T)
+- ZBTJ_APP
 - ZYTX_GND (N&T)
 - ZYTX_TWR (N&T)
 - ZYTX_APP
