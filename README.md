@@ -1,4 +1,4 @@
-# **Sweatbox-files for Euroscope**
+# **Sweatbox-Files for Euroscope**
 
 This project have serveral sweatbox files work with [Euroscope](https://euroscope.hu) for training new controller or just have fun.
 
