@@ -1,0 +1,2 @@
+DEP RWY: 23
+ARR RWY: 24L 23
