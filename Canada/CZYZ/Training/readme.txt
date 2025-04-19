@@ -1,5 +1,6 @@
-ROU573: Q832 should be Q831, crz alt
-POE8459: crz alt
-CJT291: crz alt
-ACA974: crz alt
+ROU573: Q832 should be Q831, CRZ ALT
+POE8459: CRZ ALT
+CJT291: CRZ ALT
+ACA974: CRZ ALT
 ACA9573: Q927 should be Q929
+UAL759: CRZ ALT, Q141 should be Q140
