@@ -17,6 +17,7 @@ Normal files without any problems for flightplan.
 Training edition files contain some problems in the flightplan, student need to find it out, also there is a files contains where is the wrong infomation in sweatbox.
 
 #### Note:
+
 #### Approach files will ONLY have Normal Edition!
 
 ---
@@ -24,6 +25,7 @@ Training edition files contain some problems in the flightplan, student need to 
 ## **Developing Progress**
 
 ### Already Done:
+
 - CYHZ_GND (N&T)
 - CYHZ_TWR (N Only)
 - VHHH_GND (N&T)
@@ -34,6 +36,7 @@ Training edition files contain some problems in the flightplan, student need to 
 - ZYTX_APP
 
 ### Creating Right Now:
+
 - CYHZ_TWR(T)
 - CYYZ_GND(N&T)
 - CYYZ_TWR(N&T)
@@ -45,12 +48,15 @@ Training edition files contain some problems in the flightplan, student need to 
 ---
 
 ## **Help us improve**
-Report [``Issues``](https://github.com/N28888/Sweatbox-files/issues) or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me to create or found any problems with files!
+
+Report [`Issues`](https://github.com/N28888/Sweatbox-files/issues) or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me to create or found any problems with files!
 
 ---
 
 ## **Credits**
+
 Made by Yifan Jin/1687356
+Aircraft performance data is from [Euroscope-performance-data](https://github.com/vatsimnetwork/euroscope-performance-data)
 
 ---
 
@@ -61,7 +67,8 @@ This project based on [MIT license](https://github.com/N28888/Sweatbox-files/blo
 ---
 
 ## Support
-If You Like My Project Click The Star Above!!! 
+
+If You Like My Project Click The Star Above!!!
 It Will Increase My Motivation to Create & Update!
 
 ---
