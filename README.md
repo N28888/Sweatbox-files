@@ -1,16 +1,16 @@
-# **Sweatbox-Files for Euroscope**
+# **Sweatbox-Files for EuroScope**
 
-This project have serveral sweatbox files work with [Euroscope](https://euroscope.hu) for training new controller or just have fun.
+This project have several sweatbox files work with [EuroScope](https://euroscope.hu) for training new controller or just have fun.
 
 ---
 
 ## **Two different kind of files**
 
-There are two kinds of files provide
+There are two kinds of files are provided
 
 ### Normal
 
-Normal files without any problems for flightplan.
+Normal files without any problem on flightplan.
 
 ### Training edition
 
@@ -49,7 +49,7 @@ Training edition files contain some problems in the flightplan, student need to 
 
 ## **Help us improve**
 
-Report [`Issues`](https://github.com/N28888/Sweatbox-files/issues) or send email to sweatbox@yfanj.ca for let me know if you have your prefered position want me to create or found any problems with files!
+Report [`Issues`](https://github.com/N28888/Sweatbox-files/issues) or send email to sweatbox@yfanj.ca to let me know if you have your prefered position want me to create or found any problems with files!
 
 ---
 
@@ -57,7 +57,7 @@ Report [`Issues`](https://github.com/N28888/Sweatbox-files/issues) or send email
 
 Made by Yifan Jin/1687356
 </br>
-Aircraft performance data is from [Euroscope-performance-data](https://github.com/vatsimnetwork/euroscope-performance-data)
+Aircraft performance data is from [euroscope-performance-data](https://github.com/vatsimnetwork/euroscope-performance-data)
 
 ---
 
