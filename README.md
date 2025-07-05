@@ -56,6 +56,7 @@ Report [`Issues`](https://github.com/N28888/Sweatbox-files/issues) or send email
 ## **Credits**
 
 Made by Yifan Jin/1687356
+</br>
 Aircraft performance data is from [Euroscope-performance-data](https://github.com/vatsimnetwork/euroscope-performance-data)
 
 ---
