@@ -1,1 +1,6 @@
 .*
+version.txt
+.env
+.DS_Store
+euroscope_sector_providers.txt
+SectorFileProviderDescriptor.txt
